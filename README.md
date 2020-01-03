@@ -1,7 +1,5 @@
 # AZ500 Exam Lab Study Guide
 
-## Staytuned with my YouTube Channel
-
 1. How to: Use the portal to create an Azure AD application and service principal that can access resources
 https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
 
